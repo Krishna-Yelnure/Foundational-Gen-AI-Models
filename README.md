@@ -21,5 +21,3 @@ This repository contains a structured comparison of 10 frontier AI models as of 
 ## Intended use
 Exploratory analysis, research, and discussion around AI evaluation practices.
 
-## License
-CC BY 4.0
